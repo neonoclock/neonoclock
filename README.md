@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=ffcce1&height=120&text=Hyewon's%20GitHub&animation=fadeIn&fontColor=4f4f4f&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 기능을 넘어 경험을 설계하는  프론트엔드 개발자, 안혜원입니다. </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> **기능**을 넘어 **경험**을 설계하는  프론트엔드 개발자, **안혜원**입니다. </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 단순한 구현에 머무르지 않고, 유지보수하기 좋은 구조를 고민하며 꾸준히 리팩토링합니다. <br/></li>누구나 동등한 경험을 할 수 있도록 접근성과 사용성을 함께 고민합니다.</li> </div> 
     </div>
     <div style="text-align: left;">
